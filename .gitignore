@@ -1,0 +1,4 @@
+test
+*.cmi
+*.cmo
+*.log
